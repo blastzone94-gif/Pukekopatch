@@ -1,0 +1,34 @@
+/**
+ * @name Pukekopatch
+ * @author Xenowhenthediscordopps
+ * @version 6.9
+ * @description A small filler bg for when discord FUCKS MY SHIT UP SO BAD
+ * @source https://github.com/So1ta/USP-ThemeDiscord
+*/
+
+@import url("https://so1ta.github.io/css/usp-base.css");
+
+
+:root {
+  --background: url("https://raw.githubusercontent.com/blastzone94-gif/Pukekopatch/refs/heads/main/Fukdadiscordops.jpeg");
+  --font:                       "Impact";
+  --transparencyalpha:          0;
+  --transparencycolor:          10,10,10;
+  --messagetransparency:        0;
+  --guildchanneltransparency:   0;
+  --chatinputtransparency:      0;
+  --memberlisttransparency:     0;
+  --accentcolor:                200,200,69,100;
+}
+
+.theme-dark {
+  --text-normal:                #ffffff;
+  --text-muted:                 #ffffff;
+  --header-primary:             #ff4f75;
+  --channels-default:           #ff90a2;
+  --header-secondary:           #ff90a2;
+  --interactive-normal:         #ff90a2;
+  --interactive-hover:          #ffffff;
+  --interactive-active:         #ffffff;
+  --background-modifier-accent: #fff2;
+}
